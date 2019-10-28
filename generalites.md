@@ -1,4 +1,5 @@
 •git init
+
 Pour initialiser un projet Git il faut en premier lieu taper cette ligne de commande
 
 •git status
